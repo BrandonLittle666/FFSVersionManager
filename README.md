@@ -2,7 +2,7 @@
 
 一个用于查看 FreeFileSync 同步文件历史版本的图形界面工具。
 
-![](https://minioapi.shaunnet.xyz:443/picgo/20250518232712316.png "软件界面")
+![软件界面](./doc/overview.png)
 
 ## 功能特点
 
@@ -80,7 +80,7 @@ uv run main.py
 
 ## 配置说明
 
-配置文件为 `%Home%/FFSVersionManager/config.toml` 
+配置文件为 `%Home%/FFSVersionManager/config.toml`
 
 配置文件包含：
 
