@@ -1,0 +1,8 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/icons">
+        <file>check.png</file>
+        <file>cross.png</file>
+        <file>appicon.ico</file>
+    </qresource>
+</RCC>

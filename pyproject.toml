@@ -1,0 +1,17 @@
+[project]
+name = "ffsversionmanager"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "loguru>=0.7.3",
+    "nuitka>=2.7.2",
+    "paramiko>=3.0.0",
+    "pyside6>=6.9.0",
+    "python-registry>=1.3.1",
+    "pywin32>=310",
+    "rtoml>=0.12.0",
+    "smbprotocol>=1.10.0",
+    "sqlmodel>=0.0.24",
+]
